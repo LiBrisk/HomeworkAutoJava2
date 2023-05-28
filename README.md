@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qg8q349omgi6k0e2?svg=true)](https://ci.appveyor.com/project/LiBrisk/homeworkautojava2-d95wm)
 # aqa-code
 Код с лекций Автоматизация тестирования
 
